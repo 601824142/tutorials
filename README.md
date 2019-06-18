@@ -12,20 +12,17 @@ And here's the Master Class of Learn Spring Security: <br/>
 
 Java and Spring Tutorials
 ================
-
-This project is **a collection of small and focused tutorials** - each covering a single and well defined area of development in the Java ecosystem. 
-A strong focus of these is, of course, the Spring Framework - Spring, Spring Boot and Spring Security. 
-In additional to Spring, the following technologies are in focus: `core Java`, `Jackson`, `HttpClient`, `Guava`. 
+该项目是一系列小而专注的教程 - 每个教程都涵盖Java生态系统中单一且定义明确的开发领域。当然，它们的重点是Spring Framework - Spring，Spring Boot和Spring Security。除了Spring之外，还有以下技术：核心Java，Jackson，HttpClient，Guava。
 
 
 Building the project
 ====================
-To do the full build, do: `mvn clean install`
+要进行完整生成，请执行：`mvn clean install`
 
 
 Building a single module
 ====================
-To build a specific module run the command: `mvn clean install` in the module directory
+要构建特定模块，请运行模块目录中的命令：“mvn clean install”
 
 
 Running a Spring Boot module
