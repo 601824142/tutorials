@@ -27,12 +27,12 @@ Building a single module
 
 Running a Spring Boot module
 ====================
-To run a Spring Boot module run the command: `mvn spring-boot:run` in the module directory
+要运行Spring引导模块，请运行模块目录中的命令：“mvn spring boot:run” 
 
 #Running Tests
 
-The command `mvn clean install` will run the unit tests in a module.
-To run the integration tests, use the command `mvn clean install -Pintegration-lite-first`
+命令“mvn clean install”将在模块中运行单元测试。
+要运行集成测试，请首先使用命令'mvn clean install-pintegration lite'`
 
 
 
